@@ -1,0 +1,31 @@
+---
+title: "my md file"
+author: "it is me"
+date: 2020-12-01T21:13:14-05:00
+categories: ["R"]
+tags: ["tag1", "tag2", "tag3"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# R Markdown
+
+
+```{r cars}
+plot(iris)
+```
+
+# Including Plots
+
+
+```{r ggplot}
+library(tidyverse)
+
+diamonds%>%
+  ggplot(aes(x=carat,y=price,color=cut))+
+  geom_point()+
+  theme_dark()
+  
+```

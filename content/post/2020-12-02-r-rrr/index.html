@@ -1,0 +1,34 @@
+---
+title: "my md file"
+author: "it is me"
+date: 2020-12-01T22:16:00-05:00
+categories: ["R"]
+tags: ["tag1", "tag2", "tag3"]
+---
+
+<script src="{{< blogdown/postref >}}index_files/header-attrs/header-attrs.js"></script>
+
+
+<div id="r-markdown" class="section level1">
+<h1>R Markdown</h1>
+<pre class="r"><code>plot(iris)</code></pre>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/cars-1.png" width="672" /></p>
+</div>
+<div id="including-plots" class="section level1">
+<h1>Including Plots</h1>
+<pre class="r"><code>library(tidyverse)
+## -- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+## v ggplot2 3.3.5     v purrr   0.3.4
+## v tibble  3.1.5     v dplyr   1.0.7
+## v tidyr   1.1.4     v stringr 1.4.0
+## v readr   2.0.2     v forcats 0.5.1
+## -- Conflicts ------------------------------------------ tidyverse_conflicts() --
+## x dplyr::filter() masks stats::filter()
+## x dplyr::lag()    masks stats::lag()
+
+diamonds%&gt;%
+  ggplot(aes(x=carat,y=price,color=cut))+
+  geom_point()+
+  theme_dark()</code></pre>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/ggplot-1.png" width="672" /></p>
+</div>

@@ -3,10 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <lastmod>2021-05-31T07:11:59+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/post3/</loc>
+    <lastmod>2021-05-31T07:11:59+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post3/pospos3/</loc>
+    <lastmod>2021-05-31T07:11:59+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post3/</loc>
+    <lastmod>2021-05-31T07:11:59+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2021-05-31T07:11:59+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/theme/</loc>
+    <lastmod>2021-05-31T07:11:59+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <lastmod>2020-12-01T22:16:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/2020-12-02-r-rrr/</loc>
+    <lastmod>2020-12-01T22:16:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2020-12-01T22:16:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/r/</loc>
+    <lastmod>2020-12-01T22:16:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tag1/</loc>
+    <lastmod>2020-12-01T22:16:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tag2/</loc>
+    <lastmod>2020-12-01T22:16:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tag3/</loc>
+    <lastmod>2020-12-01T22:16:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
@@ -14,19 +47,10 @@
     <loc>http://localhost:1313/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/r/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/regression/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/amp/</loc>
@@ -36,9 +60,6 @@
     <lastmod>2018-05-31T07:11:59+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post2/</loc>
-    <lastmod>2018-05-31T07:11:59+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/theme/</loc>
     <lastmod>2018-05-31T07:11:59+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/cover-example/</loc>
