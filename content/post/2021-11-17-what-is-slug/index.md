@@ -1,14 +1,16 @@
 ---
-title: "Index"
+title: "why cant build"
 author: "Author Name"
-cover: "/img/cover.jpg"
-tags: ["tagA", "tagB"]
+tags: ["tagtagtag", "tagtttttttt"]
 date: 2021-11-17T21:23:44+09:00
-draft: true
+draft: false
+type: post
 ---
 
-Cut out summary from your post content here.
+whtas up
 
-<!--more-->
 
-The remaining content of your post.
+
+## english like
+
+hu ber

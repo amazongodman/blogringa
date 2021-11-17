@@ -1,14 +1,14 @@
 ---
-title: "Index"
+title: "gaaaaaaaa"
 author: "Author Name"
-cover: "/img/cover.jpg"
 tags: ["tagA", "tagB"]
 date: 2021-11-17T21:24:49+09:00
-draft: true
+draft: false
+type: post
 ---
 
-Cut out summary from your post content here.
 
-<!--more-->
+# this is h1
 
-The remaining content of your post.
+
+hi
