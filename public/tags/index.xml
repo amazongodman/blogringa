@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on blog::Ringa_hyj()</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on blog::Ringa_hyj()</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>plot</title>
+      <link>http://localhost:1313/tags/plot/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>http://localhost:1313/tags/plot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>http://localhost:1313/tags/r-markdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>http://localhost:1313/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regression</title>
+      <link>http://localhost:1313/tags/regression/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>http://localhost:1313/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AMP</title>
+      <link>http://localhost:1313/tags/amp/</link>
+      <pubDate>Thu, 31 May 2018 07:11:59 +0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/amp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theme</title>
+      <link>http://localhost:1313/tags/theme/</link>
+      <pubDate>Thu, 31 May 2018 07:11:59 +0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>http://localhost:1313/tags/hugo/</link>
+      <pubDate>Mon, 28 May 2018 13:22:14 +0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

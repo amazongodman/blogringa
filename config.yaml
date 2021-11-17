@@ -1,0 +1,38 @@
+baseURL: http://localhost:1313/
+languageCode: en-us
+title: blog::Ringa_hyj()
+theme: hugo-lamp
+googleAnalytics: UA-XXX-X
+params:
+  adsenseSlot: XXX
+  adsenseSlotSticky: XXX
+  author: Huy Nguyen
+  description: A light responsive Hugo AMP theme for blogger
+  email: name@domain.com
+  github: amazongodman
+  googleSiteVerification: google_site_verification_code
+  logo: /img/ringo.png
+  mainSections: posts
+  msValidate: bing_site_verification_code
+  paginate: 10
+  seotitle: tab nameeeeeeeeeeee
+  subtitle: subtitle hereeeeeeee
+  twitter: Ringa_hyj
+  youtube: youtube_username
+taxonomies:
+  category: categories
+  tag: tags
+menu:
+  main:
+    - identifier: post1
+      name: post1name
+      url: /post1/
+      weight: 1
+    - identifier: post2
+      name: post2name
+      url: /post2/
+      weight: 2
+    - identifier: post3
+      name: post3name
+      url: /post3/
+      weight: 3
